@@ -26,6 +26,7 @@ This project allows you to chat with your PDF documents using Google's Gemini AI
    streamlit run app.py
    ```
 
+
 ## Usage
 
 1. Upload a PDF file using the file uploader
